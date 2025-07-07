@@ -1,0 +1,7 @@
+Number of sentences: 40
+Number of words: 326
+Number of total characters (excluding whitespace): 1422
+Number of whitespaces: 310
+Total number of digits: 0
+Total number of uppercase letters: 0
+Total number of lowercase letters: 0
