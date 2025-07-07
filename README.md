@@ -39,23 +39,19 @@ This repository contains **35+ AI practical programs implemented in Python**, fo
 ## 📁 Folder Structure
 
 ```
-AI_Lab_Practicals_Kaushal_Ramoliya/
+AI-Projects-and-Practicals/
 │
-├── .venv/                          # Virtual Environment (optional)
 ├── AI_Practical.pdf               # Original List of AI Practical Questions
 ├── AI_Practical_Solution_Kaushal_Ramoliya.pdf  # Full Report with Code + Input + Output
-├── programs/
-│   ├── Program_01.py
-│   ├── Program_02.py
-│   └── ... up to Program_35.py
-├── datasets/
-│   ├── iris.csv
-│   ├── user_data_cars_1.csv
-│   ├── milk_quality.csv
-│   ├── usedcars.csv
-│   └── pima-indians-diabetes.csv
-├── excel_files/
-│   ├── program_17_entropy.xlsx
+├── Program_01.py
+├── Program_02.py
+│   └──... up to Program_35.py
+├── iris.csv
+├── user_data_cars_1.csv
+├── milk_quality.csv
+├── usedcars.csv
+├── pima-indians-diabetes.csv
+├── program_17_entropy.xlsx
 │   └── ...
 └── README.md                      # This file
 ```
