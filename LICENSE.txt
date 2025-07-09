@@ -1,0 +1,15 @@
+Copyright (c) 2025 Kaushal Ramoliya
+
+All rights reserved.
+
+This repository is protected under international copyright law.
+
+You are **only allowed to view** the contents of this repository **through the GitHub interface**.
+
+You are **not permitted** to:
+- Copy or reproduce the code
+- Modify or distribute the contents
+- Download the repository or use the code in any form
+- Publish or share any part of this repository
+
+Any unauthorized use of this code is strictly prohibited and may result in legal action.
